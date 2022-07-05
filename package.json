@@ -1,5 +1,18 @@
 {
+<<<<<<< HEAD
   "name": "09-react-routing",
+=======
+<<<<<<< HEAD
+  "name": "13-react-hooks",
+=======
+<<<<<<< HEAD
+  "name": "12-react-redux",
+=======
+<<<<<<< HEAD
+  "name": "06-react-intro",
+>>>>>>> 7c9fae24c5f06a459a976773e8883b728cb68b6e
+>>>>>>> 931330a327da323d52c46a2a03bec69278893e4d
+>>>>>>> ccc3b8ff27a3978819945e6fe01f86441d008595
   "version": "1.0.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
@@ -7,14 +20,60 @@
     "@testing-library/user-event": "^13.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+<<<<<<< HEAD
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3"
+=======
+<<<<<<< HEAD
+    "react-scripts": "4.0.3"
+=======
+<<<<<<< HEAD
+    "react-redux": "^7.2.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0"
+=======
+    "react-scripts": "^4.0.3"
+=======
+  "name": "10-react-forms",
+  "version": "1.0.0",
+  "dependencies": {
+    "@babel/runtime": "^7.13.10",
+    "@testing-library/jest-dom": "^5.11.10",
+    "@testing-library/user-event": "^13.1.1",
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.6.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+>>>>>>> 94f920d9566b9305db5d6e223fb0368dc771098a
+>>>>>>> 7c9fae24c5f06a459a976773e8883b728cb68b6e
+>>>>>>> 931330a327da323d52c46a2a03bec69278893e4d
+>>>>>>> ccc3b8ff27a3978819945e6fe01f86441d008595
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
     "eject": "react-scripts eject"
+=======
+<<<<<<< HEAD
+    "eject": "react-scripts eject"
+=======
+<<<<<<< HEAD
+    "eject": "react-scripts eject"
+=======
+<<<<<<< HEAD
+    "eject": "react-scripts eject"
+=======
+    "eject": "react-scripts eject",
+    "grade": "react-scripts test --json --watchAll=false --outputFile=./result.json"
+>>>>>>> 94f920d9566b9305db5d6e223fb0368dc771098a
+>>>>>>> 7c9fae24c5f06a459a976773e8883b728cb68b6e
+>>>>>>> 931330a327da323d52c46a2a03bec69278893e4d
+>>>>>>> ccc3b8ff27a3978819945e6fe01f86441d008595
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -30,5 +89,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+  },
+  "devDependencies": {
+    "@testing-library/react": "^11.2.6",
+    "enzyme": "^3.11.0"
+>>>>>>> 94f920d9566b9305db5d6e223fb0368dc771098a
+>>>>>>> 7c9fae24c5f06a459a976773e8883b728cb68b6e
+>>>>>>> 931330a327da323d52c46a2a03bec69278893e4d
+>>>>>>> ccc3b8ff27a3978819945e6fe01f86441d008595
   }
 }
