@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "short_name": "Movies App",
   "name": "Movies App with React and Redux",
   "icons": [
@@ -6,6 +7,25 @@
       "src": "logoHenry.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
+=======
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+>>>>>>> 7c9fae24c5f06a459a976773e8883b728cb68b6e
     }
   ],
   "start_url": ".",
