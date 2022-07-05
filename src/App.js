@@ -1,4 +1,5 @@
 import React from 'react';
+<<<<<<< HEAD
 import './App.css';
 import Card from './components/Card.jsx';
 import Cards from './components/Cards.jsx';
@@ -30,6 +31,14 @@ function App() {
         />
       </div>
     </div>
+=======
+import logo from './logo.svg';
+import Form from './Form.jsx';
+
+function App() {
+  return (
+    <Form />
+>>>>>>> 94f920d9566b9305db5d6e223fb0368dc771098a
   );
 }
 

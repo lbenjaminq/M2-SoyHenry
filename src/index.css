@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+<<<<<<< HEAD
+=======
+
+p.danger {
+  color: red;
+  font-size: 10px;
+}
+
+input.danger {
+  border: 2px solid red;
+}
+>>>>>>> 94f920d9566b9305db5d6e223fb0368dc771098a
